@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bharatveeryadav.github.io/Portfolio/#](https://bharatveeryadav.github.io/Portfolio/#)
 
-- 📝 I regularly write articles on [https://bharatyadav.hashnode.dev/](https://bharatyadav.hashnode.dev/)
+- 📝 I regularly write articles on [https://bharatyadav.hashnode.dev/](https://bharatveeryadav.hashnode.dev/)
 
 - 💬 Ask me about **Web | DevOps | Cloud**
 
