@@ -1,2 +1,2 @@
-### [Connect with me 💬](https://www.BharatVeerYadav.com) 
+### [Connect with me 💬](https://linktr.ee/bharatveeryadav) 
 
